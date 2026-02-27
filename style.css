@@ -69,3 +69,15 @@ img {
   margin: 4px;
   padding: 10px;
 }
+
+.sub-header {
+  font-size: 20px;
+  color: #000000
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: 400px;
+
+}
+
